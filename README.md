@@ -19,7 +19,7 @@
 ### Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/" target="blank"><img align="center" src="(https://github.com/rosliy/rosliy/blob/main/assets/linkedin.svg)" alt="Ilya_Rosliy LinkedIn" height="30" width="40" /></a>
+<a href="https://linkedin.com" target="blank"><img align="center" src="https://github.com/rosliy/rosliy/blob/main/assets/linkedin.svg" alt="Ilya_Rosliy LinkedIn" height="30" width="40" /></a>
 <a href="https://instagram.com/_rosliy_" target="blank"><img align="center" src="https://github.com/rosliy/rosliy/blob/main/assets/instagram.svg" alt="Ilya_Rosliy Instagram" height="30" width="40" /></a>
 <a href="https://www.vk.com" target="blank"><img align="center" src="https://github.com/rosliy/rosliy/blob/main/assets/vk.svg" alt="Ilya_Rosliy VK" height="30" width="40" /></a>
 </p>
