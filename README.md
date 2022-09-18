@@ -19,8 +19,9 @@
 ### Connect with me:
 
 <p align="left">
-<a href="https://instagram.com/_rosliy_" target="blank"><img align="center" src="https://github.com/rosliy/rosliy/blob/main/assets/instagram.svg" alt="Ilya_Rosliy Instagram" height="30" width="40" /></a>
-<a href="https://www.vk.com" target="blank"><img align="center" src="https://github.com/rosliy/rosliy/blob/main/assets/vk.svg" alt="Ilya_Rosliy VK" height="30" width="40" /></a>
+<a href="https://instagram.com/_rosliy_" target="blank"><img align="center" src="https://github.com/rosliy/rosliy/blob/main/assets/instagram.svg" alt="Ilya_Rosliy Instagram" height="40" width="40" /></a>
+<a href="https://www.vk.com/rosliy_is" target="blank"><img align="center" src="https://github.com/rosliy/rosliy/blob/main/assets/vk.svg" alt="Ilya_Rosliy VK" height="40" width="40" /></a>
+<a href="https://www.codewars.com/users/BioRan/badges/large" target="blank"><img align="center" src="https://github.com/rosliy/rosliy/blob/main/assets/codewars.svg" alt="Ilya_Rosliy CodeWars" height="40" width="400" /></a>
 </p>
 
 ### Languages and Tools
